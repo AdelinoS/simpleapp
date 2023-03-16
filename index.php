@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-	<title>PHP Test ADELINO</title>
+	<title>PHP Test HELLO</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
